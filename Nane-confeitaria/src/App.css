@@ -1,0 +1,79 @@
+main{
+  width: 1600px;
+  min-height: 100vh;
+  background-color: #FDF7EF;
+}
+header{
+  position: relative;
+  display: flex;
+  color: #683D25;
+  font-size: 24px;
+  width: 95%;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  height: 145px;
+}
+header p{
+  margin-left: 5%;
+}
+.fazer{
+  margin-left: 5%;
+  font-size: 24px;
+  width: 15%;
+  background-color: #EB8394;
+  color: white;
+  border-radius: 20px;
+  
+}
+.hero{
+  width: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  height: 550px;
+}
+.hero h2{
+  color: #683D25;
+  font-size: 48px;
+  width: 55%;
+  font-weight: 400;
+  text-align: justify;
+  margin-left: 15%;
+  padding-left: 5%;
+}
+.hero h2 span{
+  font-weight: 600;
+}
+.botoes-hero{
+  display: flex;
+  align-items: first baseline;
+  margin-left: 20%;
+  width: 80%;
+  flex-direction: row;
+}
+.ver{
+  font-size: 24px;
+  width: 30%;
+  background-color: #EB8394;
+  color: white;
+  border-radius: 20px;
+}
+.destaque{
+  font-size: 24px;
+  width: 30%;
+  background-color: white;
+  color: #EB8394;
+  border-radius: 20px;
+  border: 1px solid #EB8394;
+  margin-left: 7%;
+}
+.s1{
+  display: flex;
+  flex-direction: column;
+}
+.sobre{
+  width: 1600px;
+}
