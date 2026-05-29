@@ -1,16 +1,34 @@
-# React + Vite
+# 🍰 Tia Nane Confeitaria 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido durante o curso do **Instituto PROA**, dentro da iniciativa **“Fortalecendo o corre da quebrada”**, que tem como objetivo criar soluções digitais para apoiar trabalhadores autônomos e pequenos empreendedores.
 
-Currently, two official plugins are available:
+O projeto consiste no desenvolvimento de um site em **React** para a confeitaria **Tia Nane Confeitaria**, com foco em divulgação de produtos, melhoria da presença digital e facilidade de contato com clientes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Acesse o projeto: https://share.google/ogKOqqKngtJHYWAKP
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tecnologias utilizadas
 
-## Expanding the ESLint configuration
+- React  
+- JavaScript 
+- HTML5  
+- CSS3  
+- Componentização  
+- Responsividade  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Objetivo do projeto
+
+- Criar um site funcional para um trabalhador autônomo  
+- Aplicar conceitos de React na prática  
+- Desenvolver uma interface simples e intuitiva  
+- Melhorar a experiência do usuário (UX)  
+- Simular um projeto real do mercado de trabalho  
+
+---
+
+## 🧁 Sobre o projeto
+
+O site da **Tia Nane Confeitaria** foi desenvolvido para destacar os produtos artesanais da confeitaria e facilitar o acesso dos clientes às informações principais do negócio, como produtos e formas de contato.
